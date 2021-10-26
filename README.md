@@ -15,3 +15,5 @@ You will also see any lint errors in the console.
 
 ### `Hacker News Search`
 This is a high standard app created on ReactJS with professional code.
+I have used latest hooks for implementation like useReduce.
+We don't have any extarnal library for store management by created react's own store using Context and useReducers.
